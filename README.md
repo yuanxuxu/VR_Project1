@@ -1,16 +1,19 @@
-# CS5331-001: Virtual Reality
-THREEJS Online: http://mrdoob.com/projects/htmleditor/
+This project is based on https://github.com/Alex-Nguyen/CS5331001-Virtual-Reality
 
-THREEJS Editor: https://threejs.org/editor/
+## Demo:
 
-Basic knowledge tutorial: https://alex-nguyen.github.io/CS5331VRLecture/#slide-0
-
-Link for tutorial: http://myweb.ttu.edu/vinhtngu/cs5331vr/boilerplate.html
-
-Link for tutorial Part 2: http://myweb.ttu.edu/vinhtngu/cs5331vr/part2.html
-
-Link for tutorial Part 3: http://myweb.ttu.edu/vinhtngu/cs5331vr/part3.html
-
-Link for tutorial Part 4: http://myweb.ttu.edu/vinhtngu/cs5331vr/part4.html
-
-Link for tutorial Part 5: http://myweb.ttu.edu/vinhtngu/cs5331vr/part5.html
+### Models (Used: 11, Created: 3):
+Colored Chiar1 * 2
+Chiar * 1
+Lantern * 1
+Piano * 1
+TV * 1
+Avatar * 2
+Clock * 1
+Frame * 1
+Box * 1
+Still Ball * 1
+Moving Ball * 2
+Pics * 5
+Table * 1
+Light ball * 3

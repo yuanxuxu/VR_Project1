@@ -1,5 +1,3 @@
-This project is based on https://github.com/Alex-Nguyen/CS5331001-Virtual-Reality
-
 ### Demo: https://www.youtube.com/watch?v=diDm_G9Ek2c
 ### Live:  https://yuanxuxu.github.io/VR_Project1/
 ### Models (Used: 11, Created: 3):
